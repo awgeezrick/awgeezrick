@@ -1,5 +1,8 @@
-<img src='https://github.com/awgeezrick/awgeezrick/blob/master/gijoe.jpg' />
+<!-- book image created using https://nullk.github.io/penguin.html --> 
 
+<p align='center'>
+<img src='https://github.com/awgeezrick/awgeezrick/blob/master/images/morty_book_cover.png' />
+</p>
 <!-- Don't need to show this until it gets a bit more robust
 
 <br />
